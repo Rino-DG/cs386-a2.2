@@ -1,4 +1,5 @@
 **Activty 2.2**
+Hi, I'm Alan, I'm a sophmore CS major, I can't think of anything else to put here.
 
 My name is Gannon Rowlan and I am a sophmore at NAU seeking my bachelor's degree in computer sciences.
 
@@ -11,4 +12,3 @@ My name is Rino De Guzman and an interesting fact about me is that I used to be 
 
 **Nathan Seitz**
 Applied Computer Science major, Junior Year.
-
